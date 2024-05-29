@@ -1,4 +1,4 @@
-# Sneha Thakur - Portfolio
+# Sneha Thakur 
 Welcome to my GitHub repository!
 
 ## About Me
@@ -16,16 +16,5 @@ Feel free to reach out to me via email ( snehathakur345656@gmail.com ) for any c
 Let's connect and build amazing things together!
 
 ## Skills
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,mongodb,git,bootstrap,express,github,jquery,sass,tailwind,visualstudio,)](https://skillicons.dev)
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Node.js
-- MongoDB
-- Git
-- Bootstrap
-- RESTful APIs
-- Responsive Web Design
-- Problem Solving
-- Team Collaboration
