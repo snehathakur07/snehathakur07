@@ -14,3 +14,18 @@ Stay tuned for updates on my projects! I am constantly working on new ideas and 
 Feel free to reach out to me via email ( snehathakur345656@gmail.com ) for any collaboration opportunities or just to say hello!
 
 Let's connect and build amazing things together!
+
+## Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Node.js
+- MongoDB
+- Git
+- Bootstrap
+- RESTful APIs
+- Responsive Web Design
+- Problem Solving
+- Team Collaboration
