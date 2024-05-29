@@ -12,7 +12,8 @@ Stay tuned for updates on my projects! I am constantly working on new ideas and 
 
 ## Contact Me
 Feel free to reach out to me via email ( snehathakur345656@gmail.com ) for any collaboration opportunities or just to say hello!
-My Resume - https://drive.google.com/file/d/1LglD_blDWuKzlnOhQzeiR4rOq2huJnx4/view?usp=sharing
+
+### My Resume - [I'm an inline-style link with title](https://drive.google.com/file/d/1LglD_blDWuKzlnOhQzeiR4rOq2huJnx4/view?usp=sharing "Resume")
 
 Let's connect and build amazing things together!
 
