@@ -1,5 +1,5 @@
 # Sneha Thakur 
-Welcome to my GitHub repository!
+Welcome to my GitHub repository! 👋
 
 ## About Me
 I am Sneha Thakur, a final year B.Tech Computer Science Engineering student at NIT Hamirpur. Originally from Chamba, Himachal Pradesh, I am an enthusiastic Web Developer with a passion for creating engaging and interactive web applications.
@@ -12,6 +12,7 @@ Stay tuned for updates on my projects! I am constantly working on new ideas and 
 
 ## Contact Me
 Feel free to reach out to me via email ( snehathakur345656@gmail.com ) for any collaboration opportunities or just to say hello!
+My Resume - https://drive.google.com/file/d/1LglD_blDWuKzlnOhQzeiR4rOq2huJnx4/view?usp=sharing
 
 Let's connect and build amazing things together!
 
