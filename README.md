@@ -1,5 +1,5 @@
 # Sneha Thakur 
-Welcome to my GitHub repository! 👋
+Welcome to my GitHub repository!👋
 
 ## About Me
 I am Sneha Thakur, a final year B.Tech Computer Science Engineering student at NIT Hamirpur. Originally from Chamba, Himachal Pradesh, I am an enthusiastic Web Developer with a passion for creating engaging and interactive web applications.
@@ -18,5 +18,5 @@ Feel free to reach out to me via [email](mailto:snehathakur345656@gmail.com) for
 Let's connect and build amazing things together!
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,mongodb,git,bootstrap,express,github,jquery,sass,tailwind,visualstudio,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,mongodb,git,bootstrap,express,github,jquery,sass,tailwind,visualstudio,)]()
 
