@@ -11,7 +11,7 @@ Currently, I am focusing on enhancing my skills in MERN stack to build robust an
 Stay tuned for updates on my projects! I am constantly working on new ideas and endeavors, and I look forward to sharing them with you here on GitHub.
 
 ## Contact Me
-Feel free to reach out to me via [email](mailto:snehathakur345656@gmail.com) for any collaboration opportunities or just to say hello!
+Feel free to reach out to me via [email](mailto:snehathakur345656@gmail.com) for any collaboration opportunities or just to say _**hello**_ 🙃!
 
 ### My [Resume](https://drive.google.com/file/d/1LglD_blDWuKzlnOhQzeiR4rOq2huJnx4/view?usp=sharing "Resume")
 
