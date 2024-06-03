@@ -8,7 +8,7 @@ I am Sneha Thakur, a final year B.Tech Computer Science Engineering student at N
 Currently, I am focusing on enhancing my skills in MERN stack to build robust and scalable web applications. My journey in web development has been exciting so far, and I am continuously learning and exploring new technologies to stay updated with the latest trends in the industry.
 
 ## Projects
-Stay tuned for updates on my projects! I am constantly working on new ideas and endeavors, and I look forward to sharing them with you here on GitHub.
+Stay tuned for updates on my projects! I look forward to sharing them with you here on GitHub.
 
 ## Contact Me
 Feel free to reach out to me via [email](mailto:snehathakur345656@gmail.com) for any collaboration opportunities or just to say _**hello**_ 🙃!
